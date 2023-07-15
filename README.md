@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-- 💬 Ask me about **c#,PHP,C++**
+- 💬 Ask me about **c#,PHP,C++,Java**
 
 - 📫 How to reach me **sathinduprabhath3@gmail.com**
 
