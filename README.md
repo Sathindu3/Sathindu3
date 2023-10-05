@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sathindu Prabhath</h1>
-<h3 align="center">A passionate backend and frontend developer from Sri Lanka</h3>
+<h3 align="center">A passionate backend developer from Sri Lanka</h3>
 <img align="right" alt="coding" width = "400" src ="https://miro.medium.com/v2/resize:fit:1600/0*C-cPP9D2MIyeexAT.gif">
 
 - 🔭 I’m currently working on [e-commerce website](https://github.com/YohashaBilakshi/newShoppingMall)
