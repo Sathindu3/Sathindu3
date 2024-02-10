@@ -2,10 +2,6 @@
 <h3 align="center">A Software developer from Sri Lanka</h3>
 <img align="right" alt="coding" width = "400" src ="https://miro.medium.com/v2/resize:fit:1600/0*C-cPP9D2MIyeexAT.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sathindu3&label=Profile%20views&color=0e75b6&style=flat" alt="sathindu3" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sathindu3" alt="sathindu3" /></a> </p>
-
 - 🔭 I’m currently working on [Online Clothing Store WebSite](https://github.com/Sathindu3/online_shopping-store-using-React_Laravel1.git)
 
 - 🌱 I’m currently learning **ReactJS, Angular, Laravel, Flutter**
