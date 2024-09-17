@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on [Online Clothing Store WebSite](https://github.com/Sathindu3/online_shopping-store-using-React_Laravel1.git)
 
-- 🌱 I’m currently learning **ReactJS, Angular, Laravel, Flutter**
+- 🌱 I’m currently learning **ASP.Net Core, ReactJS, Angular, Laravel, **
 
-- 💬 Ask me about **C#.NET, ReactJS ,C++, Java**
+- 💬 Ask me about **C#.NET, ReactJS ,C++**
 
 - 📫 How to reach me **sathinduprabhath3@gmail.com**
 
