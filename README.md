@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sathindu Prabhath</h1>
+<h1 align="center">Hi 👋, I'm Sathindu Wimalarathne</h1>
 <h3 align="center">A Software developer from Sri Lanka</h3>
 <img align="right" alt="coding" width = "400" src ="https://miro.medium.com/v2/resize:fit:1600/0*C-cPP9D2MIyeexAT.gif">
 
